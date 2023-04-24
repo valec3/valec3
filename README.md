@@ -2,7 +2,7 @@
 Soy un estudiante de Ciencia de Datos con conocimientos en Python, R, C++ y JavaScript. Me apasiona el análisis de datos y la programación, y estoy buscando oportunidades para aplicar mis habilidades en proyectos emocionantes y desafiantes.
 
 # Sobre mí
-Actualmente estoy cursando mi licenciatura en Ciencia de Datos en [nombre de tu universidad o institución].
+Actualmente estoy cursando mi licenciatura en Ingenieria Estadistica e Informatica.
 Me encanta trabajar con datos y tengo experiencia en el análisis de datos y la visualización utilizando Python, R y JavaScript.
 También tengo conocimientos en C++, lo que me permite desarrollar aplicaciones y algoritmos de programación más complejos.
 Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como científico de datos y desarrollador.
