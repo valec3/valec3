@@ -18,11 +18,12 @@ También tengo conocimientos en C++, lo que me permite desarrollar aplicaciones 
 Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como científico de datos y desarrollador.
 </p>
 
+<div>
 </br>
 ![Valece Github Stats](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=algolia)
 </br>
 ![Valece Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical)
-
+</div>
 
 
 # Mis habilidades
@@ -35,3 +36,13 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 * Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
 * Big Data: Hadoop, Spark
 
+
+<br/>
+
+</p>
+
+![Elissa Twizeyimana Github Stats](https://github-readme-stats.vercel.app/api?username=twizelissa&show_icons=true&include_all_commits=true&theme=radical)
+
+![Elissa Twizeyimana Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=twizelissa&layout=compact&theme=radical)
+
+</p>
