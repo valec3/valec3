@@ -17,7 +17,7 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 </p>
 
 <p>
-![Valece's GitHub stats](https://github-readme-stats.vercel.app/api?valec3=anuraghazra&show_icons=true&theme=algolia)
+![Valece's GitHub stats](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=algolia)
 </p>
 
 <p>
