@@ -16,11 +16,11 @@ También tengo conocimientos en C++, lo que me permite desarrollar aplicaciones 
 Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como científico de datos y desarrollador.
 </p>
 
-<p>
+</p>
 ![Valece Github Stats](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Valece Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical)
-</p>
+
 
 <p>
 # Mis habilidades
