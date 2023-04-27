@@ -24,7 +24,7 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 ![Valece Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical)
 
 
-<p>
+
 # Mis habilidades
 * Lenguajes de programación: Python, R, C++, JavaScript
 * Análisis de datos: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
@@ -34,5 +34,4 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 * Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
 * Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
 * Big Data: Hadoop, Spark
-</p>
 
