@@ -6,6 +6,7 @@ Soy un estudiante de Ciencia de Datos con conocimientos en Python, R, C++ y Java
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <p/>
+<span></span>
 
 # Sobre mí
 Actualmente estoy cursando mi licenciatura en Ingenieria Estadistica e Informatica.
