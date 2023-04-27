@@ -41,8 +41,8 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 
 </p>
 
-![Elissa Twizeyimana Github Stats](https://github-readme-stats.vercel.app/api?username=twizelissa&show_icons=true&include_all_commits=true&theme=radical)
+![Valece Github Stats](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=algolia)
 
-![Elissa Twizeyimana Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=twizelissa&layout=compact&theme=radical)
+![Valece Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical)
 
 </p>
