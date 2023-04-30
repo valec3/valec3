@@ -10,8 +10,9 @@ Soy un estudiante de Ciencia de Datos con conocimientos en Python, R, C++ y Java
 </br>
 
 <p>
-   </br>
+   
 # Sobre mí
+   
 Actualmente estoy cursando mi licenciatura en Ingenieria Estadistica e Informatica.
 Me encanta trabajar con datos y tengo experiencia en el análisis de datos y la visualización utilizando Python, R y JavaScript.
 También tengo conocimientos en C++, lo que me permite desarrollar aplicaciones y algoritmos de programación más complejos.
