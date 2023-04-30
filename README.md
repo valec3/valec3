@@ -22,11 +22,11 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 * Lenguajes de programación: Python, R, C++, JavaScript
 * Análisis de datos: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 * Visualización de datos: ggplot2, Plotly, D3.js
-* Desarrollo web: HTML, CSS, Bootstrap, React
-* Bases de datos: SQL, MongoDB
-* Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
+* Desarrollo web: HTML, CSS, Bootstrap, React, SASS
+* Bases de datos: SQL, MongoDB, MySQL
+<!-- * Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
 * Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
-* Big Data: Hadoop, Spark
+* Big Data: Hadoop, Spark -->
 
 
 <br/>
