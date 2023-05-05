@@ -39,3 +39,10 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 ![Valece Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical)
 
 </p>
+
+## Proyectos Web Design 
+- [Freelancer Page](https://github.com/valec3/Freelancer-Basico)
+- [Save Nature](https://github.com/valec3/Save-Nature.github.io)
+- [Festical Musica](https://github.com/valec3/FestivalMusic)
+- [Encriptador Alura](https://github.com/valec3/Encriptador.github.io)
+- ETC
