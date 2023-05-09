@@ -40,9 +40,13 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 
 </p>
 
-## Proyectos Web Design 
+## Proyectos Web Design [Front End]
 - [Freelancer Page](https://github.com/valec3/Freelancer-Basico)
 - [Save Nature](https://github.com/valec3/Save-Nature.github.io)
 - [Festical Musica](https://github.com/valec3/FestivalMusic)
 - [Encriptador Alura](https://github.com/valec3/Encriptador.github.io)
 - ETC
+## Analisis de datos
+- [Titanic](#)
+## Python games 
+- [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
