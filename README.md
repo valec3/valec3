@@ -39,10 +39,13 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 ## Proyectos Web Design [Front End]
 - [Freelancer Page](https://github.com/valec3/Freelancer-Basico)
 - [Save Nature](https://github.com/valec3/Save-Nature.github.io)
-- [Festical Musica](https://github.com/valec3/FestivalMusic)
+- [Festival Musica](https://github.com/valec3/FestivalMusic)
 - [Encriptador Alura](https://github.com/valec3/Encriptador.github.io)
-- ETC
+- [Tienda de comida rapida](https://github.com/valec3/store-food)
+- [Gestor de tareas](https://github.com/valec3/Gestor_de_tareas)
+
 ## Analisis de datos
 - [Titanic](#)
-## Python games 
+## Python app
 - [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
+- [Metodos numericos](https://github.com/valec3/methods_numeric)
