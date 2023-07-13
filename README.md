@@ -1,5 +1,5 @@
 # Bienvenido a mi perfil de GitHub!
-Soy un estudiante de Ciencia de Datos con conocimientos en Python, R, C++ y JavaScript. Me apasiona el análisis de datos y la programación, y estoy buscando oportunidades para aplicar mis habilidades en proyectos emocionantes y desafiantes.
+Hola, mi nombre es ***Victor*** y soy desarrollador web apasionado por la ciencia de datos. Mi objetivo es combinar ambas disciplinas para crear aplicaciones web que analicen datos en tiempo real y brinden recomendaciones personalizadas mediante algoritmos de aprendizaje automático. Te invito a explorar mis proyectos. ¡Gracias por visitar mi perfil!
 
 <p>
    <a href="https://www.linkedin.com/in/victormaye-data-science/">
@@ -20,6 +20,7 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 </p>
 
 # Mis habilidades
+
 * Lenguajes de programación: Python, R, C++, JavaScript
 * Análisis de datos: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 * Visualización de datos: ggplot2, Plotly, D3.js
@@ -43,9 +44,16 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 - [Encriptador Alura](https://github.com/valec3/Encriptador.github.io)
 - [Tienda de comida rapida](https://github.com/valec3/store-food)
 - [Gestor de tareas](https://github.com/valec3/Gestor_de_tareas)
+- [Web Restaurante](https://github.com/valec3/restaurant-website-pjt)
+- [Website de agencia digital](https://github.com/valec3/Agencia_Digital)
+- [Trivia App](https://github.com/valec3/trivia_app)
 
 ## Analisis de datos
 - [Titanic](#)
+- [Prediccion diabetes](#)
+- [Detección de fraudes con tarjetas de crédito](#)
 ## Python app
 - [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
+- [Regletas fraccionarias para niños](https://github.com/valec3/Game_py_Regletas_fraccionarias)
 - [Metodos numericos](https://github.com/valec3/methods_numeric)
+- [Juego tic tac toe con IA](https://github.com/valec3/IA_TicTacToe)
