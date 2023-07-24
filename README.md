@@ -34,7 +34,7 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 <br/>
 
 
-| ![stats-github](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=algolia) | ![stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical) |
+| ![stats-github](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=algolia) | ![stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical&hide=jupyter%20notebook,jupyter%20notebook%20(ipython)) |
 |---|---|
 
 ## Proyectos Web Design [Front End]
@@ -47,6 +47,7 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 - [Web Restaurante](https://github.com/valec3/restaurant-website-pjt)
 - [Website de agencia digital](https://github.com/valec3/Agencia_Digital)
 - [Trivia App](https://github.com/valec3/trivia_app)
+- [Tienda ropa](https://github.com/valec3/Tienda_ropa)
 
 ## Analisis de datos
 - [Titanic](#)
