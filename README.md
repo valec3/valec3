@@ -36,6 +36,11 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 
 | ![stats-github](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=algolia) | ![stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical&hide=jupyter%20notebook,jupyter%20notebook%20(ipython)) |
 |---|---|
+<br/>
+
+<p align="left"><a href`="#">`
+  <img src="https://github-profile-trophy.vercel.app/?username=valec3&margin-w=28&margin-h=15&theme=nord" />
+</p>
 
 ## Proyectos Web Design [Front End]
 - [Freelancer Page](https://github.com/valec3/Freelancer-Basico)
@@ -48,9 +53,16 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 - [Website de agencia digital](https://github.com/valec3/Agencia_Digital)
 - [Trivia App](https://github.com/valec3/trivia_app)
 - [Tienda ropa](https://github.com/valec3/Tienda_ropa)
+- [Mini proyectos js](https://github.com/valec3/Mini-Proyectos-JS)
+- [Reparacion de autos](https://github.com/valec3/Repair_Auto)
+- [Planificador de viajes](https://github.com/valec3/invent_website_app_TripIt)
+- [Lector de libros(en desarrollo)](https://github.com/valec3/libros_oreilly)
+- [Tienda de ropa](https://github.com/valec3/Tienda_ropa)
 
-## Analisis de datos
-- [Titanic](#)
+## Ciencia de datos
+- [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
+- [Clasificador de basura](https://github.com/valec3/clasificador_basura)
+- [Titanic](https://github.com/valec3/Titanic_DA)
 - [Prediccion diabetes](#)
 - [Detección de fraudes con tarjetas de crédito](#)
 ## Python app
