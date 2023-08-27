@@ -59,6 +59,8 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 - [Planificador de viajes](https://github.com/valec3/invent_website_app_TripIt)
 - [Lector de libros(en desarrollo)](https://github.com/valec3/libros_oreilly)
 - [Tienda de ropa](https://github.com/valec3/Tienda_ropa)
+- [Todo App](https://github.com/valec3/TodoAppReact)
+- [Clon YT](https://github.com/valec3/YT-clone)
 
 ## Ciencia de datos
 - [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
