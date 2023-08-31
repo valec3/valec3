@@ -61,6 +61,8 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 - [Tienda de ropa](https://github.com/valec3/Tienda_ropa)
 - [Todo App](https://github.com/valec3/TodoAppReact)
 - [Clon YT](https://github.com/valec3/YT-clone)
+- [Nike page](#)
+- [Map travel](#)
 
 ## Ciencia de datos
 - [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
@@ -68,8 +70,13 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 - [Titanic](https://github.com/valec3/Titanic_DA)
 - [Prediccion diabetes](#)
 - [Detección de fraudes con tarjetas de crédito](#)
+- [Canciones mas escuchadas de spotify](#)
+- [Noticias falsas](#)
 ## Python app
 - [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
 - [Regletas fraccionarias para niños](https://github.com/valec3/Game_py_Regletas_fraccionarias)
 - [Metodos numericos](https://github.com/valec3/methods_numeric)
 - [Juego tic tac toe con IA](https://github.com/valec3/IA_TicTacToe)
+- [Crud tkinter](#)
+- [Lector PDF](#)
+- [Internet test](#)
