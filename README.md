@@ -13,18 +13,18 @@ Hola, mi nombre es ***Victor*** y soy desarrollador web apasionado por la cienci
    
 # Sobre mí
    
-Actualmente estoy cursando mi licenciatura en Ingenieria Estadistica e Informatica.
-Me encanta trabajar con datos y tengo experiencia en el análisis de datos y la visualización utilizando Python, R y JavaScript.
-También tengo conocimientos en C++, lo que me permite desarrollar aplicaciones y algoritmos de programación más complejos.
-Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como científico de datos y desarrollador.
+Estudiante universitario cursando una licenciatura en Ingeniería Estadística e Informática. Mi pasión por la ciencia de datos y el desarrollo front-end me ha llevado a explorar diversos campos de estudio.
+
+He adquirido experiencia en el análisis de datos y la visualización utilizando herramientas como Python, R y JavaScript. Además, mi conocimiento en C++ me permite abordar proyectos de programación más complejos y desarrollar aplicaciones innovadoras.
+
+Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocionante mundo del Machine Learning y el desarrollo front-end. Estoy siempre en busca de nuevas tecnologías y oportunidades para crecer como científico de datos y desarrollador.
 </p>
 
 # Mis habilidades
 
 * Lenguajes de programación: Python, R, C++, JavaScript
 * Análisis de datos: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
-* Visualización de datos: ggplot2, Plotly, D3.js
-* Desarrollo web: HTML, CSS, Bootstrap, React, SASS
+* Desarrollo web: HTML, CSS, Bootstrap, React, SASS, Tailwind, Django
 * Bases de datos: SQL, MongoDB, MySQL
 <!-- * Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
 * Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
@@ -43,7 +43,7 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
   <img src="https://github-profile-trophy.vercel.app/?username=valec3&margin-w=28&margin-h=15&theme=nord" />
 </p>
 
-## Proyectos Web Design [Front End]
+## Proyectos Desarrollo Web [Front-End]
 - [Freelancer Page](https://github.com/valec3/Freelancer-Basico)
 - [Save Nature](https://github.com/valec3/Save-Nature.github.io)
 - [Festival Musica](https://github.com/valec3/FestivalMusic)
@@ -61,8 +61,9 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 - [Tienda de ropa](https://github.com/valec3/Tienda_ropa)
 - [Todo App](https://github.com/valec3/TodoAppReact)
 - [Clon YT](https://github.com/valec3/YT-clone)
-- [Nike page](#)
+- [Nike page](https://github.com/valec3/Nike-web-clon)
 - [Map travel](#)
+- [Threads App](https://github.com/valec3/clon-ThreadsApp)
 
 ## Ciencia de datos
 - [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
@@ -72,6 +73,7 @@ Estoy interesado en aprender nuevas tecnologías y habilidades para mejorar como
 - [Detección de fraudes con tarjetas de crédito](#)
 - [Canciones mas escuchadas de spotify](#)
 - [Noticias falsas](#)
+- [Clasificacion de vidrios](https://github.com/valec3/glass_clasification)
 ## Python app
 - [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
 - [Regletas fraccionarias para niños](https://github.com/valec3/Game_py_Regletas_fraccionarias)
