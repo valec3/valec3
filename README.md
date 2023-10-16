@@ -35,7 +35,7 @@ Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocion
 <br/>
 
 
-| ![stats-github](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=algolia) | ![stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical&hide=jupyter%20notebook,jupyter%20notebook%20(ipython)) |
+| ![stats-github](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=algolia) | ![stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical&hide=jupyter%20notebook,jupyter%20notebook%20(ipython),html) |
 |---|---|
 <br/>
 
