@@ -64,6 +64,7 @@ Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocion
 - [Nike page](https://github.com/valec3/Nike-web-clon)
 - [Map travel](#)
 - [Threads App](https://github.com/valec3/clon-ThreadsApp)
+- [Punto de venta SmartPOS](https://github.com/valec3/POS-restaurant)
 
 ## Ciencia de datos
 - [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
