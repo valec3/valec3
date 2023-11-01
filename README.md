@@ -22,7 +22,7 @@ Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocion
 
 # Mis habilidades
 
-* Lenguajes de programación: Python, R, C++, JavaScript, Java
+* Lenguajes de programación: Python, R, C++, JavaScript, Java 
 * Análisis de datos:Power BI, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 * Desarrollo web: HTML, CSS, Bootstrap, React, SASS, Tailwind, Django
 * Bases de datos: SQL, Supabase, Firebase, MongoDB, MySQL, PostgreSQL 
