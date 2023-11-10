@@ -1,3 +1,4 @@
+
 # Bienvenido a mi perfil de GitHub!
 Hola, mi nombre es ***Victor*** y soy desarrollador web apasionado por la ciencia de datos. Mi objetivo es combinar ambas disciplinas para crear aplicaciones web que analicen datos en tiempo real y brinden recomendaciones personalizadas mediante algoritmos de aprendizaje automático. Te invito a explorar mis proyectos. ¡Gracias por visitar mi perfil!
 
@@ -81,6 +82,7 @@ Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocion
 - [Canciones mas escuchadas de spotify](#)
 - [Noticias falsas](#)
 - [Clasificacion de vidrios](https://github.com/valec3/glass_clasification)
+- [Clasificador de cancer de piel]()
 ## Python app
 - [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
 - [Regletas fraccionarias para niños](https://github.com/valec3/Game_py_Regletas_fraccionarias)
