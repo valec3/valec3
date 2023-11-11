@@ -72,6 +72,7 @@ Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocion
 - [Diabetic app](https://diabetes-help-app.vercel.app/)
 - [Calendario google](https://calendar-react-dusky.vercel.app/calendar)
 - [Recetas web]()
+- [CRM]()
 
 ## Ciencia de datos
 - [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
