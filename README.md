@@ -1,3 +1,6 @@
+<div>
+   <img  src="./1328866.png" style="height:300px; width:100%; object-fit:cover; object-position:top;"/>
+</div>
 
 # Bienvenido a mi perfil de GitHub!
 Hola, mi nombre es ***Victor*** y soy desarrollador web apasionado por la ciencia de datos. Mi objetivo es combinar ambas disciplinas para crear aplicaciones web que analicen datos en tiempo real y brinden recomendaciones personalizadas mediante algoritmos de aprendizaje automático. Te invito a explorar mis proyectos. ¡Gracias por visitar mi perfil!
