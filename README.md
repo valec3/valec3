@@ -9,6 +9,7 @@ Hola, mi nombre es ***Victor*** y soy desarrollador web apasionado por la cienci
    <a href="https://www.linkedin.com/in/victormaye-data-science/">
       <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
+   <a class="color:red;">Portafolio</a>
 </p>
 
 </br>
@@ -138,6 +139,7 @@ Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocion
 - [Noticias falsas](#)
 - [Clasificacion de vidrios](https://github.com/valec3/glass_clasification)
 - [Clasificador de cancer de piel]()
+- [SQL detection]()
 ## Python app
 - [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
 - [Regletas fraccionarias para niños](https://github.com/valec3/Game_py_Regletas_fraccionarias)
