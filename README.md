@@ -128,6 +128,7 @@ Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocion
 - [Calendario google](https://calendar-react-dusky.vercel.app/calendar)
 - [Recetas web]()
 - [CRM]()
+- [App peliculas por plataforma](https://s12-07-n-node-react.vercel.app/)
 
 ## Ciencia de datos
 - [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
