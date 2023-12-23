@@ -126,7 +126,7 @@ Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocion
 - [Billetera virtual](https://anderson.d301togxhux3st.amplifyapp.com)
 - [Diabetic app](https://diabetes-help-app.vercel.app/)
 - [Calendario google](https://calendar-react-dusky.vercel.app/calendar)
-- [Recetas web]()
+- [Recetas web](https://recipes-site-ten.vercel.app/)
 - [CRM]()
 - [App peliculas por plataforma](https://s12-07-n-node-react.vercel.app/)
 
@@ -139,7 +139,7 @@ Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocion
 - [Canciones mas escuchadas de spotify](#)
 - [Noticias falsas](#)
 - [Clasificacion de vidrios](https://github.com/valec3/glass_clasification)
-- [Clasificador de cancer de piel]()
+- [Clasificador de cancer de piel](https://skincancer-ebtmaenvnhqqg6inxpr6fh.streamlit.app/)
 - [SQL detection]()
 ## Python app
 - [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
