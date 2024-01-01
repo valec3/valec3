@@ -18,11 +18,9 @@ Hola, mi nombre es ***Victor*** y soy desarrollador web apasionado por la cienci
    
 # Sobre mí
    
-Estudiante universitario cursando una licenciatura en Ingeniería Estadística e Informática. Mi pasión por la ciencia de datos y el desarrollo front-end me ha llevado a explorar diversos campos de estudio.
+Estudiante de ingeniería estadística e informática, actualmente me encuentro inmerso en el estudio de disciplinas como JS, R, Python, Java, C++, Node.js y Django. Mi experiencia abarca desde el desarrollo fullstack hasta la aplicación de conocimientos en ciencia de datos y machine learning. Soy un colaborador entusiasta en proyectos, destacándome por mi habilidad para fusionar aplicaciones web con inteligencia artificial, convirtiendo ideas innovadoras en soluciones tangibles.
 
-He adquirido experiencia en el análisis de datos y la visualización utilizando herramientas como Python, R y JavaScript. Además, mi conocimiento en C++ me permite abordar proyectos de programación más complejos y desarrollar aplicaciones innovadoras.
-
-Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades en el emocionante mundo del Machine Learning y el desarrollo front-end. Estoy siempre en busca de nuevas tecnologías y oportunidades para crecer como científico de datos y desarrollador.
+Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos que amplíen mis conocimientos y contribuyan al desarrollo de soluciones avanzadas. Mi pasión por crear aplicaciones web que integran machine learning no solo refleja mis habilidades técnicas, sino también mi compromiso con la combinación de funcionalidad práctica y la vanguardia de la tecnología.
 </p>
 
 # Mis habilidades
