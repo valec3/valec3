@@ -103,7 +103,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
 - [Freelancer Page](https://github.com/valec3/Freelancer-Basico)
 - [Save Nature](https://github.com/valec3/Save-Nature.github.io)
 - [Festival Musica](https://github.com/valec3/FestivalMusic)
-- [Encriptador Alura](https://github.com/valec3/Encriptador.github.io)
+- [Encriptador de texto](https://github.com/valec3/Encriptador.github.io)
 - [Tienda de comida rapida](https://github.com/valec3/store-food)
 - [Gestor de tareas](https://github.com/valec3/Gestor_de_tareas)
 - [Web Restaurante](https://github.com/valec3/restaurant-website-pjt)
