@@ -99,6 +99,8 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
   <img src="https://github-profile-trophy.vercel.app/?username=valec3&margin-w=28&margin-h=15&theme=nord" />
 </p>
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 ## Proyectos Desarrollo Web [Front-End]
 - [Freelancer Page](https://github.com/valec3/Freelancer-Basico)
 - [Save Nature](https://github.com/valec3/Save-Nature.github.io)
