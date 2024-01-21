@@ -27,7 +27,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
 
 * Lenguajes de programación: Python, R, C++, JavaScript, Java 
 * Análisis de datos:Power BI, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
-* Desarrollo web: HTML, CSS, Bootstrap, React, SASS, Tailwind, Django
+* Desarrollo web: HTML, CSS, Bootstrap, React, SASS, Tailwind, Django, Astro
 * Bases de datos: SQL, Supabase, Firebase, MongoDB, MySQL, PostgreSQL 
 
 <!-- * Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
