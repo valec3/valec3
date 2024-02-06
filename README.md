@@ -1,5 +1,5 @@
 <div>
-   <img  src="./1328866.png" style="height:300px; width:100%; object-fit:cover; object-position:top;"/>
+   <img  src="./banner.jpg" style="height:300px; width:100%; object-fit:cover; object-position:top;"/>
 </div>
 
 # Bienvenido a mi perfil de GitHub!
