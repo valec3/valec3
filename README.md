@@ -9,7 +9,7 @@ Hola, mi nombre es ***Victor*** y soy desarrollador web apasionado por la cienci
    <a href="https://www.linkedin.com/in/victormaye-data-science/">
       <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a class="color:red;">Portafolio</a>
+   <a class="color:red;font-weight:bold" href="https://portfolio-dev-astro.vercel.app">Portafolio</a>
 </p>
 
 </br>
