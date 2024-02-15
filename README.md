@@ -147,6 +147,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
 - [Recetas web](https://recipes-site-ten.vercel.app/)
 - [CRM]()
 - [App peliculas por plataforma](https://s12-07-n-node-react.vercel.app/)
+- [Gestion de torneos de futbol]()
 
 ## Ciencia de datos
 
