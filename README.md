@@ -43,7 +43,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
         <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/css.svg">
         <img align="center" alt="JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/javascript.svg">
         <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/react.svg">
-        <img align="center" alt="Gatsby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/astro.svg">
+        <img align="center" alt="Gatsby" height="45" width="40" src="https://astro.build/assets/press/astro-icon-light-gradient.png">
         <img align="center" alt="Next" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nextjs.svg">
         <img align="center" alt="Redux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/redux.svg">
         <img align="center" alt="Sass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/sass.svg">
@@ -69,7 +69,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
         <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/fastapi.svg">
         <img align="center" alt="PostgreSql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/c++.svg">
         <img align="center" alt="PostgreSql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/java.svg">
-        <img align="center" alt="PostgreSql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/php.svg">
+        <img align="center" alt="PostgreSql" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">
         <img align="center" alt="Sequelize" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/sequelize.svg">
         <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mysql.svg">
         <img align="center" alt="PostgreSql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/postgresql.svg">
