@@ -2,35 +2,35 @@
    <img  src="./banner.jpg" style="height:300px; width:100%; object-fit:cover; object-position:top;"/>
 </div>
 
-# Bienvenido a mi perfil de GitHub!
+# Welcome to my GitHub profile!
 
-Hola, mi nombre es **_Victor_** y soy desarrollador web apasionado por la ciencia de datos. Mi objetivo es combinar ambas disciplinas para crear aplicaciones web que analicen datos en tiempo real y brinden recomendaciones personalizadas mediante algoritmos de aprendizaje automático. Te invito a explorar mis proyectos. ¡Gracias por visitar mi perfil!
+Hello, my name is **_Victor_**, web developer passionate about data science. My goal is to combine both disciplines to create web applications that analyze real-time data and provide personalized recommendations through machine learning algorithms. I invite you to explore my projects. Thank you for visiting my profile!
 
 <p>
    <a href="https://www.linkedin.com/in/victormaye-data-science/">
       <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a class="color:red;font-weight:bold" href="https://portfolio-dev-astro.vercel.app">Portafolio</a>
+   <a class="color:red;font-weight:bold" href="https://portfolio-dev-astro.vercel.app">Portfolio</a>
 </p>
 
 </br>
 
 <p>
    
-# Sobre mí
+# About me
    
-Estudiante de ingeniería estadística e informática, actualmente me encuentro inmerso en el estudio de disciplinas como JS, R, Python, Java, C++, Node.js y Django. Mi experiencia abarca desde el desarrollo fullstack hasta la aplicación de conocimientos en ciencia de datos y machine learning. Soy un colaborador entusiasta en proyectos, destacándome por mi habilidad para fusionar aplicaciones web con inteligencia artificial, convirtiendo ideas innovadoras en soluciones tangibles.
+I am a student of statistical engineering and computer science, currently immersed in the study of disciplines such as JS, R, Python, Java, C++, Node.js, and Django. My experience ranges from full-stack development to the application of knowledge in data science and machine learning. I am an enthusiastic collaborator on projects, standing out for my ability to merge web applications with artificial intelligence, turning innovative ideas into tangible solutions.
 
-Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos que amplíen mis conocimientos y contribuyan al desarrollo de soluciones avanzadas. Mi pasión por crear aplicaciones web que integran machine learning no solo refleja mis habilidades técnicas, sino también mi compromiso con la combinación de funcionalidad práctica y la vanguardia de la tecnología.
+With a focus on innovation, I enjoy tackling new challenges that broaden my knowledge and contribute to the development of advanced solutions. My passion for creating web applications that integrate machine learning not only reflects my technical skills but also my commitment to combining practical functionality with cutting-edge technology.
 
 </p>
 
-# Mis habilidades
+# My skills
 
-- Lenguajes de programación: Python, R, C++, JavaScript, Java
-- Análisis de datos:Power BI, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
-- Desarrollo web: HTML, CSS, Bootstrap, React, SASS, Tailwind, Django, Astro
-- Bases de datos: SQL, Supabase, Firebase, MongoDB, MySQL, PostgreSQL
+- Programming languages: Python, R, C++, JavaScript, Java
+- Data analysis: Power BI, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
+- Web development: HTML, CSS, Bootstrap, React, SASS, Tailwind, Django, Astro
+- Databases: SQL, Supabase, Firebase, MongoDB, MySQL, PostgreSQL
 
 <!-- * Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
 * Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
@@ -81,7 +81,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
         <img align="center" alt="Cloudinary" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/cloudinary.svg">
     </div>
     <div class="background:#fff; color:#fff">
-        <h3>Ciencia de datos</h3>
+        <h3>Data Science</h3>
         <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/python.svg">
         <img align="center" alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
         <img align="center" alt="R" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">
@@ -93,7 +93,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
         <img align="center" alt="R" height="45" width="80" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
     </div>
     <div>
-        <h3>Extras</h3>
+        <h3>Others</h3>
         <div style="display:flex;gap:10px;">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
             <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
@@ -118,7 +118,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
-## Proyectos Desarrollo Web [Front-End]
+## Projects [Front-End]
 
 - [Freelancer Page](https://github.com/valec3/Freelancer-Basico)
 - [Save Nature](https://github.com/valec3/Save-Nature.github.io)
@@ -149,7 +149,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
 - [App peliculas por plataforma](https://s12-07-n-node-react.vercel.app/)
 - [Gestion de torneos de futbol]()
 
-## Ciencia de datos
+## Data scientist
 
 - [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
 - [Clasificador de basura](https://github.com/valec3/clasificador_basura)
@@ -162,7 +162,7 @@ Con un enfoque centrado en la innovación, disfruto enfrentando nuevos desafíos
 - [Clasificador de cancer de piel](https://skincancer-ebtmaenvnhqqg6inxpr6fh.streamlit.app/)
 - [SQL detection]()
 
-## Python app
+## Python apps
 
 - [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
 - [Regletas fraccionarias para niños](https://github.com/valec3/Game_py_Regletas_fraccionarias)
