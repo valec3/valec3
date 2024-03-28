@@ -1,6 +1,10 @@
-<div>
-   <img  src="./banner.jpg" style="height:300px; width:100%; object-fit:cover; object-position:top;"/>
-</div>
+<img src="./banner.jpg" 
+     height="200" 
+     width="600" 
+     sizes="(max-width: 600px) 100vw, 600px"
+     srcset="./banner.jpg 600w, 
+             ./banner.jpg 1200w"
+     alt="Banner">
 
 # Welcome to my GitHub profile!
 
