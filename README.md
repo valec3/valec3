@@ -62,7 +62,6 @@ With a focus on innovation, I enjoy tackling new challenges that broaden my know
         <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/typescript.svg">
         <img align="center" alt="ReactQuery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactquery.svg">
         <img align="center" alt="ReactRouter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactrouter.svg">
-        <img align="center" alt="Vitest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vitest.svg">
     </div>
     <div>
         <h3>Backend</h3>
