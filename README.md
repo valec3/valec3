@@ -57,7 +57,6 @@ With a focus on innovation, I enjoy tackling new challenges that broaden my know
         <img align="center" alt="MUI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/materialui.svg">
         <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/figma.svg">
         <img align="center" alt="Styledcomponents" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/styledcomponents.svg">
-        <img align="center" alt="Webkit" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/webkit.svg">
         <img align="center" alt="Vite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vitejs.svg">
         <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/typescript.svg">
         <img align="center" alt="ReactQuery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactquery.svg">
