@@ -1,9 +1,6 @@
 <img src="./banner.jpg" 
-     height="200" 
-     width="600" 
-     sizes="(max-width: 600px) 100vw, 600px"
-     srcset="./banner.jpg 600w, 
-             ./banner.jpg 1200w"
+     height="400" 
+     width="1000" 
      alt="Banner">
 
 # Welcome to my GitHub profile!
@@ -47,7 +44,7 @@ With a focus on innovation, I enjoy tackling new challenges that broaden my know
         <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/css.svg">
         <img align="center" alt="JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/javascript.svg">
         <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/react.svg">
-        <img align="center" alt="Gatsby" height="45" width="40" src="https://astro.build/assets/press/astro-icon-light-gradient.png">
+        <img align="center" alt="Astro" height="45" width="40" src="https://astro.build/assets/press/astro-icon-light-gradient.png">
         <img align="center" alt="Next" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nextjs.svg">
         <img align="center" alt="Redux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/redux.svg">
         <img align="center" alt="Sass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/sass.svg">
@@ -87,12 +84,12 @@ With a focus on innovation, I enjoy tackling new challenges that broaden my know
         <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/python.svg">
         <img align="center" alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
         <img align="center" alt="R" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">
-        <img align="center" alt="R" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png">
-        <img align="center" alt="R" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png">
-        <img align="center" alt="R" height="50" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png">
-        <img align="center" alt="R" height="50" width="90" src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png">
-        <img align="center" alt="R" height="45" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
-        <img align="center" alt="R" height="45" width="80" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+        <img align="center" alt="Pandas" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png">
+        <img align="center" alt="Tensorflow" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png">
+        <img align="center" alt="Numpy" height="50" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png">
+        <img align="center" alt="PowerBI" height="50" width="90" src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png">
+        <img align="center" alt="Sklearn" height="45" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+        <img align="center" alt="SQL" height="45" width="80" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
     </div>
     <div>
         <h3>Others</h3>
