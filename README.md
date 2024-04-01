@@ -1,5 +1,5 @@
 <img src="./banner.jpg" 
-     height="400" 
+     height="360" 
      width="1000" 
      alt="Banner">
 
