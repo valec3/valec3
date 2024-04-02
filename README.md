@@ -1,7 +1,4 @@
-<img src="./banner.jpg" 
-     height="360" 
-     width="1000" 
-     alt="Banner">
+![cover](./banner.jpg)
 
 # Welcome to my GitHub profile!
 
