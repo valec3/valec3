@@ -120,7 +120,6 @@ With a focus on innovation, I enjoy tackling new challenges that broaden my know
 - [Save Nature](https://github.com/valec3/Save-Nature.github.io)
 - [Festival Musica](https://github.com/valec3/FestivalMusic)
 - [Encriptador de texto](https://github.com/valec3/Encriptador.github.io)
-- [Tienda de comida rapida](https://github.com/valec3/store-food)
 - [Gestor de tareas](https://github.com/valec3/Gestor_de_tareas)
 - [Web Restaurante](https://github.com/valec3/restaurant-website-pjt)
 - [Website de agencia digital](https://github.com/valec3/Agencia_Digital)
