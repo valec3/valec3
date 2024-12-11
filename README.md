@@ -15,12 +15,11 @@ Hello, my name is **_Victor_**, web developer passionate about data science. My 
 
 <p>
    
-# About me
-   
-I am a student of statistical engineering and computer science, currently immersed in the study of disciplines such as JS, R, Python, Java, C++, Node.js, and Django. My experience ranges from full-stack development to the application of knowledge in data science and machine learning. I am an enthusiastic collaborator on projects, standing out for my ability to merge web applications with artificial intelligence, turning innovative ideas into tangible solutions.
+Hi there! I'm a Software Engineer who loves building things—whether it's sleek and responsive front-end interfaces or powerful back-end systems. I work with tools like JavaScript, Python, R, Node.js, and Laravel to create full-stack web applications that are both efficient and user-friendly.
 
-With a focus on innovation, I enjoy tackling new challenges that broaden my knowledge and contribute to the development of advanced solutions. My passion for creating web applications that integrate machine learning not only reflects my technical skills but also my commitment to combining practical functionality with cutting-edge technology.
+On the frontend, I focus on crafting beautiful, responsive designs using frameworks like React, and on the backend, I build robust systems with Node.js and Django. I also dive into the world of data science, applying machine learning and analytics to make data-driven decisions and create smarter solutions.
 
+I’m always excited to take on new challenges, learn new things, and collaborate with others to turn ideas into real, functional projects. Let’s build something amazing together!
 </p>
 
 # My skills
