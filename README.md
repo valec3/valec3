@@ -24,9 +24,9 @@ I’m always excited to take on new challenges, learn new things, and collaborat
 
 # My skills
 
-- Programming languages: Python, R, C++, JavaScript, Java
+- Programming languages: Python, R, C++, PHP, JavaScript, Java
 - Data analysis: Power BI, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
-- Web development: HTML, CSS, Bootstrap, React, SASS, Tailwind, Django, Astro
+- Web development: HTML, CSS, Bootstrap, React, SASS, Tailwind, Django, Astro y Next.js
 - Databases: SQL, Supabase, Firebase, MongoDB, MySQL, PostgreSQL
 
 <!-- * Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
