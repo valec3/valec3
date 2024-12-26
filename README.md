@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub profile!
 
-Hello, my name is **_Victor_**, web developer passionate about data science. My goal is to combine both disciplines to create web applications that analyze real-time data and provide personalized recommendations through machine learning algorithms. I invite you to explore my projects. Thank you for visiting my profile!
+Hello, my name is **_Victor_**, web developer passionate about data science. My goal is to combine both disciplines to create web applications that analyze real-time data and provide personalized recommendations through machine learning algorithms. I invite you to explore my projects. Thank you for visiting my profile!!
 
 <p>
    <a href="https://www.linkedin.com/in/victormaye-data-science/">
