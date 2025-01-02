@@ -1,4 +1,4 @@
-![cover](./banner.jpg) .
+![cover](./banner.jpg)
 
 # Welcome to my GitHub profile!
 
