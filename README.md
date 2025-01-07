@@ -32,8 +32,16 @@ I’m always excited to take on new challenges, learn new things, and collaborat
 <!-- * Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
 * Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
 * Big Data: Hadoop, Spark -->
+### Frontend
+![Frontend](https://skills-icons.vercel.app/api/icons?i=nextjs,reactjs,astro,js,ts,css,html,vite,angularjs,streamlit,tailwindcss,bootstrap,shadcnui,materialui,nextui,radixui,chartjs,swiper,reactquery,redux,zustand)
+### Backend
+![Backend](https://skills-icons.vercel.app/api/icons?i=node,php,python,java,expressjs,nestjs,fastapi,springboot,mongodb,mysql,postgresql,sqlite,prisma,jwt,socketio,supabase)
+### DevOps and others
+![Others](https://skills-icons.vercel.app/api/icons?i=linux,archlinux,ubuntu,digitalocean,netlify,railway,render,docker,figma,postman,cpp,git,swagger,xampp)
+### Data Science
+![Datascience](https://skills-icons.vercel.app/api/icons?i=python,r,anaconda,pandas,scikitlearn,tensorflow)
 
-<p align="left"> 
+<!-- <p align="left"> 
     <div>
         <h3>Frontend</h3>
         <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg">
@@ -98,7 +106,7 @@ I’m always excited to take on new challenges, learn new things, and collaborat
         </div>
     </div>
 
-</p>
+</p> -->
 
 <br/>
 
