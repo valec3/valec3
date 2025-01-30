@@ -5,10 +5,12 @@
 Hello, my name is **_Victor_**, web developer passionate about data science. My goal is to combine both disciplines to create web applications that analyze real-time data and provide personalized recommendations through machine learning algorithms. I invite you to explore my projects. Thank you for visiting my profile!!
 
 <p>
-   <a href="https://www.linkedin.com/in/victormaye-data-science/">
+   <a href="https://www.linkedin.com/in/victor-fullstack/">
       <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a class="color:red;font-weight:bold" href="https://valece.vercel.app">Portfolio</a>
+   <a class="color:red;font-weight:bold" href="https://valece.vercel.app">
+      <img align="left" alt="linkedin" src="https://img.shields.io/badge/PORTFOLIO%20-20B2AA?style=for-the-badge" />
+   </a>
 </p>
 
 </br>
