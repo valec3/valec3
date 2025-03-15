@@ -35,9 +35,9 @@ I’m always excited to take on new challenges, learn new things, and collaborat
 * Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
 * Big Data: Hadoop, Spark -->
 ### Frontend
-![Frontend](https://skills-icons.vercel.app/api/icons?i=nextjs,reactjs,astro,js,ts,css,html,vite,angularjs,streamlit,tailwindcss,bootstrap,shadcnui,materialui,nextui,radixui,chartjs,swiper,reactquery,redux,zustand)
+![Frontend](https://skills-icons.vercel.app/api/icons?i=nextjs,reactjs,astro,reactnative,js,ts,css,html,vite,angularjs,streamlit,tailwindcss,bootstrap,shadcnui,materialui,nextui,chartjs,swiper,reactquery,redux,zustand)
 ### Backend
-![Backend](https://skills-icons.vercel.app/api/icons?i=node,php,python,java,expressjs,nestjs,fastapi,springboot,mongodb,mysql,postgresql,sqlite,prisma,jwt,socketio,supabase)
+![Backend](https://skills-icons.vercel.app/api/icons?i=node,php,python,java,expressjs,nestjs,fastapi,laravel,mongodb,mysql,postgresql,sqlite,prisma,jwt,socketio,supabase)
 ### DevOps and others
 ![Others](https://skills-icons.vercel.app/api/icons?i=linux,archlinux,ubuntu,digitalocean,netlify,railway,render,docker,figma,postman,cpp,git,swagger,xampp)
 ### Data Science
