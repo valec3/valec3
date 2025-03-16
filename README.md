@@ -1,4 +1,4 @@
-![cover](./banner.jpg)
+![cover](./cover.png)
 
 # Welcome to my GitHub profile!
 
@@ -22,6 +22,7 @@ Hi there! I'm a Software Engineer who loves building things—whether it's sleek
 On the frontend, I focus on crafting beautiful, responsive designs using frameworks like React, and on the backend, I build robust systems with Node.js and Django. I also dive into the world of data science, applying machine learning and analytics to make data-driven decisions and create smarter solutions.
 
 I’m always excited to take on new challenges, learn new things, and collaborate with others to turn ideas into real, functional projects. Let’s build something amazing together!
+
 </p>
 
 # My skills
@@ -34,16 +35,24 @@ I’m always excited to take on new challenges, learn new things, and collaborat
 <!-- * Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
 * Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
 * Big Data: Hadoop, Spark -->
+
 ### Frontend
+
 ![Frontend](https://skills-icons.vercel.app/api/icons?i=nextjs,reactjs,astro,reactnative,js,ts,css,html,vite,angularjs,streamlit,tailwindcss,bootstrap,shadcnui,materialui,nextui,chartjs,swiper,reactquery,redux,zustand)
+
 ### Backend
+
 ![Backend](https://skills-icons.vercel.app/api/icons?i=node,php,python,java,expressjs,nestjs,fastapi,laravel,mongodb,mysql,postgresql,sqlite,prisma,jwt,socketio,supabase)
+
 ### DevOps and others
+
 ![Others](https://skills-icons.vercel.app/api/icons?i=linux,archlinux,ubuntu,digitalocean,netlify,railway,render,docker,figma,postman,cpp,git,swagger,xampp)
+
 ### Data Science
+
 ![Datascience](https://skills-icons.vercel.app/api/icons?i=python,r,anaconda,pandas,scikitlearn,tensorflow)
 
-<!-- <p align="left"> 
+<!-- <p align="left">
     <div>
         <h3>Frontend</h3>
         <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg">
@@ -124,6 +133,7 @@ I’m always excited to take on new challenges, learn new things, and collaborat
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 ## Projects [Front-End]
+
 - [Billetera virtual](https://anderson.d301togxhux3st.amplifyapp.com)
 - [Nike page](https://github.com/valec3/Nike-web-clon)
 - [Punto de venta SmartPOS](https://pos-restaurant-knia.vercel.app/)
