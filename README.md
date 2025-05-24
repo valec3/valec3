@@ -17,7 +17,7 @@ Hello, my name is **_Victor_**, web developer passionate about data science. My 
 
 <p>
    
-Hi there! I'm a Software Engineer who loves building things—whether it's sleek and responsive front-end interfaces or powerful back-end systems. I work with tools like JavaScript, Python, R, Node.js, and Laravel to create full-stack web applications that are both efficient and user-friendly.
+I'm a Software Engineer who loves building things—whether it's sleek and responsive front-end interfaces or powerful back-end systems. I work with tools like JavaScript, Python, R, Node.js, and Laravel to create full-stack web applications that are both efficient and user-friendly.
 
 On the frontend, I focus on crafting beautiful, responsive designs using frameworks like React, and on the backend, I build robust systems with Node.js and Django. I also dive into the world of data science, applying machine learning and analytics to make data-driven decisions and create smarter solutions.
 
