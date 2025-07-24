@@ -67,8 +67,7 @@ I’m always excited to take on new challenges, learn new things, and collaborat
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 ## Projects [Front-End]
-
-- [Billetera virtual](https://anderson.d301togxhux3st.amplifyapp.com)
+- [POS SASS](https://pos-mania.pages.dev)
 - [Nike page](https://github.com/valec3/Nike-web-clon)
 - [Punto de venta SmartPOS](https://pos-restaurant-knia.vercel.app/)
 - [Reparacion de autos](https://github.com/valec3/Repair_Auto)
@@ -84,27 +83,13 @@ I’m always excited to take on new challenges, learn new things, and collaborat
 - [Tienda de ropa](https://github.com/valec3/Tienda_ropa)
 - [Todo App](https://github.com/valec3/TodoAppReact)
 - [Clon YT](https://github.com/valec3/YT-clone)
-- [Map travel](#)
-- [Threads App](https://github.com/valec3/clon-ThreadsApp)
-- [Diabetic app](https://diabetes-help-app.vercel.app/)
-- [Calendario google](https://calendar-react-dusky.vercel.app/calendar)
-- [Recetas web](https://recipes-site-ten.vercel.app/)
-- [CRM]()
-- [App peliculas por plataforma](https://s12-07-n-node-react.vercel.app/)
-- [Gestion de torneos de futbol]()
-
+- 
 ## Data scientist
 
 - [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
 - [Clasificador de basura](https://github.com/valec3/clasificador_basura)
 - [Titanic](https://github.com/valec3/Titanic_DA)
-- [Prediccion diabetes](#)
-- [Detección de fraudes con tarjetas de crédito](#)
-- [Canciones mas escuchadas de spotify](#)
-- [Noticias falsas](#)
-- [Clasificacion de vidrios](https://github.com/valec3/glass_clasification)
-- [Clasificador de cancer de piel](https://skincancer-ebtmaenvnhqqg6inxpr6fh.streamlit.app/)
-- [SQL detection]()
+
 
 ## Python apps
 
