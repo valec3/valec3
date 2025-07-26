@@ -52,7 +52,6 @@ I’m always excited to take on new challenges, learn new things, and collaborat
 
 ![Datascience](https://skills-icons.vercel.app/api/icons?i=python,r,anaconda,pandas,scikitlearn,tensorflow)
 
-
 <br/>
 
 | ![stats-github](https://github-readme-stats.vercel.app/api?username=valec3&show_icons=true&include_all_commits=true&theme=algolia) | ![stats-lang](<https://github-readme-stats.vercel.app/api/top-langs/?username=valec3&layout=compact&theme=radical&hide=jupyter%20notebook,jupyter%20notebook%20(ipython),html>) |
@@ -64,39 +63,206 @@ I’m always excited to take on new challenges, learn new things, and collaborat
   <img src="https://github-profile-trophy.vercel.app/?username=valec3&margin-w=28&margin-h=15&theme=nord" />
 </p>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+# Mis proyetos
 
-## Projects [Front-End]
-- [POS SASS](https://fyrapos.software/)
-- [Nike page](https://github.com/valec3/Nike-web-clon)
-- [Punto de venta SmartPOS](https://pos-restaurant-knia.vercel.app/)
-- [Reparacion de autos](https://github.com/valec3/Repair_Auto)
-- [Freelancer Page](https://github.com/valec3/Freelancer-Basico)
-- [Save Nature](https://github.com/valec3/Save-Nature.github.io)
-- [Festival Musica](https://github.com/valec3/FestivalMusic)
-- [Encriptador de texto](https://github.com/valec3/Encriptador.github.io)
-- [Gestor de tareas](https://github.com/valec3/Gestor_de_tareas)
-- [Tienda ropa](https://github.com/valec3/Tienda_ropa)
-- [Mini proyectos js](https://github.com/valec3/Mini-Proyectos-JS)
-- [Planificador de viajes](https://github.com/valec3/invent_website_app_TripIt)
-- [Lector de libros(en desarrollo)](https://github.com/valec3/libros_oreilly)
-- [Tienda de ropa](https://github.com/valec3/Tienda_ropa)
-- [Todo App](https://github.com/valec3/TodoAppReact)
-- [Clon YT](https://github.com/valec3/YT-clone)
-- 
-## Data scientist
+## 🌟 Proyectos Destacados
 
-- [Clasificador de gallinas](https://github.com/valec3/clasificador_gallinas)
-- [Clasificador de basura](https://github.com/valec3/clasificador_basura)
-- [Titanic](https://github.com/valec3/Titanic_DA)
+<div align="center">
+      <table>
+        <tr>
+          <td align="center" width="45%">
+            <img
+              src="./assets/fyrapos.png"
+              alt="POS SaaS"
+              style="border-radius: 10px"
+            /><br />
+            <strong
+              ><a href="https://fyrapos.software/"
+                >POS SaaS para Restaurantes</a
+              ></strong
+            ><br />
+            <p style="font-size: 14px">
+              Sistema web en la nube para gestionar ventas, productos y mesas en
+              restaurantes.
+            </p>
+            <img
+              src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"
+            />
+            <img
+              src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"
+            />
+            <img
+              src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"
+            />
+          </td>
+          <td align="center" width="45%">
+            <img
+              src="./assets/quegallina.png"
+              alt="Clasificador Gallinas"
+              style="border-radius: 10px"
+            /><br />
+            <strong
+              ><a href="https://github.com/valec3/clasificador_gallinas"
+                >Clasificador de Gallinas con IA</a
+              ></strong
+            ><br />
+            <p style="font-size: 14px">
+              Modelo de visión por computadora para clasificar razas de gallinas
+              usando CNN.
+            </p>
+            <img
+              src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"
+            />
+            <img
+              src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"
+            />
+          </td>
+        </tr>
+      </table>
+    </div>
 
+## Software Development
 
-## Python apps
+<table>
+   <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+      <th>Tecnologías</th>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://pos-restaurant-knia.vercel.app/"
+         >SmartPOS Restaurant</a
+         >
+      </td>
+      <td>POS moderno para restaurantes con frontend y backend.</td>
+      <td>
+         <img
+         src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"
+         />
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/valec3/Nike-web-clon"
+         >Nike Landing Page</a
+         >
+      </td>
+      <td>Clon responsivo del sitio oficial de Nike.</td>
+      <td>
+         <img
+         src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"
+         />
+         <img
+         src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"
+         />
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/valec3/TodoAppReact">Todo App React</a>
+      </td>
+      <td>Aplicación para gestionar tareas con React.</td>
+      <td>
+         <img
+         src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"
+         />
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/valec3/YT-clone">Clon de YouTube</a>
+      </td>
+      <td>UI replicada de YouTube, usando componentes React.</td>
+      <td>
+         <img
+         src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"
+         />
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/valec3/Python-Alien-Invasion"
+         >Alien Invasion</a
+         >
+      </td>
+      <td>Juego arcade en Pygame con animaciones y puntaje.</td>
+      <td>
+         <img
+         src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"
+         />
+         <img
+         src="https://img.shields.io/badge/Pygame-222?logo=python&logoColor=white"
+         />
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/valec3/methods_numeric"
+         >Métodos Numéricos</a
+         >
+      </td>
+      <td>Algoritmos matemáticos implementados desde cero.</td>
+      <td>
+         <img
+         src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"
+         />
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/valec3/Game_py_Regletas_fraccionarias"
+         >Regletas Fraccionarias</a
+         >
+      </td>
+      <td>Juego educativo de fracciones para niños.</td>
+      <td>
+         <img
+         src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"
+         />
+      </td>
+   </tr>
+</table>
 
-- [Alien invasion](https://github.com/valec3/Python-Alien-Invasion)
-- [Regletas fraccionarias para niños](https://github.com/valec3/Game_py_Regletas_fraccionarias)
-- [Metodos numericos](https://github.com/valec3/methods_numeric)
-- [Juego tic tac toe con IA](https://github.com/valec3/IA_TicTacToe)
-- [Crud tkinter](#)
-- [Lector PDF](#)
-- [Internet test](#)
+## 🐍 Ciencia de Datos
+
+<table>
+      <tr>
+        <th>Proyecto</th>
+        <th>Descripción</th>
+        <th>Tecnologías</th>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/valec3/clasificador_basura"
+            >Clasificador de Basura</a
+          >
+        </td>
+        <td>Clasificación automática de residuos reciclables.</td>
+        <td>
+          <img
+            src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"
+          />
+          <img
+            src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/valec3/Titanic_DA">Análisis Titanic</a>
+        </td>
+        <td>Predicción de supervivencia en Titanic con ML clásico.</td>
+        <td>
+          <img
+            src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"
+          />
+          <img
+            src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"
+          />
+          <img
+            src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white"
+          />
+        </td>
+      </tr>
+    </table>
