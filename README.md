@@ -78,7 +78,7 @@ I’m always excited to take on new challenges, learn new things, and collaborat
             /><br />
             <strong
               ><a href="https://fyrapos.software/"
-                >POS SaaS para Restaurantes</a
+                >FYRAPOS SaaS para Restaurantes</a
               ></strong
             ><br />
             <p style="font-size: 14px">
